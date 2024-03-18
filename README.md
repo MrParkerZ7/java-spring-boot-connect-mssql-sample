@@ -1,1 +1,1 @@
-Just demo for my self actually
+Demo for Microsoft SQL Server
